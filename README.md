@@ -1,104 +1,212 @@
-<div>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihalsheikh/nihalsheikh/output/pacman-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihalsheikh/nihalsheikh/output/pacman-contribution-graph.svg">
-        <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nihalsheikh/nihalsheikh/output/pacman-contribution-graph.svg">
-    </picture>
+# 👋 Hi, I'm [Your Name] 
+### Frontend Developer | UI/UX Enthusiast | JavaScript Ninja
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%26+Vue+Specialist;UI%2FUX+Designer;Always+Learning+New+Tech)](https://git.io/typing-svg)
+
 </div>
 
-<div id="header" align="center">
-  <h1 align="center">Rehman Kalawant's Terminal</h1>
-  <p align="center">
-    <code>rehman@github:~$ whoami</code>
-  </p>
-  <blockquote>
-    <p>I'm a Full-Stack Developer with a love for clean code and creative problem-solving.<br/>My primary mission is to build scalable, efficient, and user-friendly applications.</p>
-  </blockquote>
+---
+
+## 🚀 Quick Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF)
+
 </div>
 
-<br>
+---
+
+## 💫 About Me
+
+```javascript
+const developer = {
+  name: "Your Name",
+  role: "Frontend Developer",
+  location: "📍 Your City, Country",
+  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
+  askMeAbout: ["web dev", "tech", "app dev", "photography"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Vue", "Angular", "Next.js"],
+      css: ["Sass", "Tailwind", "Styled Components", "Material-UI"]
+    },
+    backEnd: {
+      js: ["Node", "Express"],
+      python: ["Django", "Flask"]
+    },
+    databases: ["MongoDB", "PostgreSQL", "Firebase"],
+    misc: ["Docker", "AWS", "Git", "Webpack", "Vite"]
+  },
+  currentFocus: "Building awesome user experiences",
+  funFact: "I debug with console.log and I'm proud of it! 🐛"
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Styling & UI
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Material-UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+
+### Tools & Others
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F)
+
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/yourusername/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true" />
+</a>
+<a href="https://github.com/yourusername/project2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=F85D7F&title_color=FFFFFF&area=true)
+
+</div>
+
+---
+
+## 🎨 Design Philosophy
+
+> "Good design is as little design as possible" - Dieter Rams
+
+I believe in creating **intuitive**, **accessible**, and **performant** web experiences. My approach combines:
+
+- 🎯 **User-Centered Design** - Understanding user needs comes first
+- ⚡ **Performance Optimization** - Fast, efficient, and scalable solutions
+- 📱 **Responsive Design** - Seamless experience across all devices
+- ♿ **Accessibility** - Inclusive design for everyone
+- 🧪 **Testing** - Reliable code through comprehensive testing
+
+---
+
+## 📚 Currently Learning
+
+```javascript
+const currentlyLearning = {
+  frameworks: ["Next.js 14", "SvelteKit", "Astro"],
+  languages: ["Rust", "Go"],
+  tools: ["Three.js", "GSAP", "Framer Motion"],
+  concepts: ["Web3", "PWAs", "Micro-frontends"],
+  design: ["Motion Design", "3D Graphics", "AR/VR"]
+};
+
+console.log("Always growing, always learning! 🚀");
+```
+
+---
+
+## 💬 Fun Facts
 
 <details>
-  <summary><code>[+] About Me</code></summary>
-  <br>
-  <ul>
-    <li>🔭 <b>Currently Working On:</b> A feature-rich e-commerce platform using the MERN stack.</li>
-    <li>🌱 <b>Currently Learning:</b> Systems programming with Rust and advanced server-side rendering in Next.js.</li>
-    <li>🤝 <b>Looking to Collaborate On:</b> Innovative open-source projects that solve real-world problems.</li>
-    <li>💬 <b>Ask Me About:</b> Anything related to JavaScript, React, Node.js, or web performance.</li>
-    <li>📫 <b>Contact:</b> <a href="mailto:rehman.kalawant.dev@email.com">rehman.kalawant.dev@email.com</a></li>
-  </ul>
+<summary>🎮 When I'm not coding...</summary>
+
+- 🎵 I'm probably listening to lo-fi hip hop
+- 📚 Reading about the latest web technologies
+- 🎨 Sketching UI/UX ideas in my notebook
+- 🌱 Taking care of my code plants (they're very green)
+- ☕ Perfecting my coffee brewing technique
+
 </details>
 
-<details>
-  <summary><code>[+] Tech Arsenal</code></summary>
-  <br>
-  <table>
-    <tr>
-      <td valign="top" width="50%">
-        <strong>Frontend:</strong><br>
-        <p align="left">
-          <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-          <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-          <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-          <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-          <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-          <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-          <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-          <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-        </p>
-      </td>
-      <td valign="top" width="50%">
-        <strong>Backend:</strong><br>
-        <p align="left">
-          <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-          <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-          <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-          <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
-          <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="50%">
-        <strong>Databases:</strong><br>
-        <p align="left">
-          <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-          <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-        </p>
-      </td>
-      <td valign="top" width="50%">
-        <strong>Tools & Platforms:</strong><br>
-        <p align="left">
-          <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-          <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-          <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-        </p>
-      </td>
-    </tr>
-  </table>
-</details>
+---
 
-<details>
-  <summary><code>[+] GitHub Analytics</code></summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=rehman2711&show_icons=true&theme=synthwave&border_radius=10" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehman2711&theme=synthwave&border_radius=10" alt="GitHub Streak"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rehman2711&layout=compact&langs_count=8&theme=synthwave&border_radius=10" alt="Top Languages"/>
-  </p>
-</details>
+## 📫 Let's Connect!
 
-<details>
-  <summary><code>[+] Connect with Me</code></summary>
-  <br>
-    <p align="left">
-        <a href="https://linkedin.com/in/rehmankalawant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehmankalawant" height="30" width="40" /></a>
-        <a href="https://leetcode.com/u/rehman2711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rehman2711" height="30" width="40" /></a>
-    </p>
-</details>
+<div align="center">
 
-<br>
-<p align="left">
-  <code>rehman@github:~$ █</code>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+<div align="center">
+
+**✨ "Code is poetry written for machines and humans alike" ✨**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
