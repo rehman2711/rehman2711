@@ -5,7 +5,7 @@
 
 <br> -->
 
-<!-- ANIMATED CONTRIBUTION GRAPH -->
+<!-- ANIMATED CONTRIBUTION GRAPH --> 
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehman2711/rehman2711/output/pacman-contribution-graph-dark.svg">
