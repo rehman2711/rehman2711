@@ -48,7 +48,7 @@
 
 ---
 
-## 🚀 Interactive Stats
+## 🚀 Stats
 
 <div align="center" >
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;" align="center">
@@ -69,7 +69,7 @@
 
 ---
 
-## 🛠️ Interactive Tech Stack
+## 🛠️ Tech Stack
 
 <div >
   <h3 align="center">Programming Languages </h3>
@@ -135,6 +135,16 @@
     <div class="project-card">
       <a href="https://github.com/rehman2711/gearshift-api" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehman2711&repo=gearshift-api&theme=gotham&hide_border=true" alt="GearShift API">
+      </a>
+    </div>
+    <div class="project-card">
+      <a href="https://github.com/rehman2711/gearshift-api" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehman2711&repo=display-ui&theme=gotham&hide_border=true" alt="Display UI">
+      </a>
+    </div>
+    <div class="project-card">
+      <a href="https://github.com/rehman2711/gearshift-api" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehman2711&repo=next-auth&theme=gotham&hide_border=true" alt="Next Auth">
       </a>
     </div>
   </div>
