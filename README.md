@@ -6,7 +6,7 @@
 <br> -->
 
 <!-- ANIMATED CONTRIBUTION GRAPH --> 
-<div align="center">
+<!-- <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehman2711/rehman2711/output/pacman-contribution-graph-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rehman2711/rehman2711/output/pacman-contribution-graph.svg">
@@ -14,7 +14,7 @@
     </picture>
 </div>
 
-<br>
+<br> -->
 
 <!-- INTERACTIVE TITLE -->
 <div align="center" >
