@@ -1,15 +1,3 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link
-  href="https://fonts.googleapis.com/css2?family=BBH+Bogle&family=Shrikhand&family=Sigmar&family=Slackey&display=swap"
-  rel="stylesheet">
-
-<style>
-  .font-slackey {
-    font-family: "Slackey", cursive;
-  }
-</style>
-
 <!-- ANIMATED BANNER -->
 <!-- <div align="center">
   <img class="floating-banner" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Animated Banner">
@@ -29,22 +17,20 @@
 <br> -->
 
 <!-- INTERACTIVE TITLE -->
-<div align="center">
-  <h1 class="glow-title font-slackey">Hi there, I'm Rehman Kalawant <img
-      src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
-      width="40" height="40" /></h1>
-  <!-- Titles -->
-  <a href="https://git.io/typing-svg"><img
+ # [![Hey, I'm Rehman](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Hey%2C%20I%27m%20Rehman%20Kalawant)](https://pimp-my-readme-next.vercel.app)
+
+ <a href="https://git.io/typing-svg"><img
       src="https://readme-typing-svg.demolab.com?font=Slackey&size=35&duration=2000&pause=1000&color=31F72A&background=FFBC3700&center=true&vCenter=true&random=true&width=435&lines=Fullstack+Developer;Frontend+Developer;Backend+Developer"
       alt="Typing SVG" /></a>
 
-</div>
+
+
 
 ---
 
 <!-- INTERACTIVE SOCIAL LINKS -->
+   [![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2002-01-01&size=50&theme=ray&rotate=0)](https://moon-svg.minung.dev)<span style="color: blue; font-size: 35px; text-align: center; justify-content: center; align-items: start;"> <b>Let's Connect! </b></span> 
 <div align="center">
-  <h3>🌐 Let's Connect!</h3>
   <br>
   <a href="https://www.linkedin.com/in/rehmankalawant/" class="interactive-badge">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
@@ -74,7 +60,7 @@
     </div>
     <div class="stats-card">
       <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehman2711&hide_border=true&bg_color=1A1B27&title_color=38BDF8&text_color=E2E8F0&icon_color=06B6D4"
+        src="https://stats.hyo.dev/api/github-stats-advanced?login=rehman2711"
         alt="Top Languages" style="border-radius: 15px; transition: all 0.3s ease;"
         onmouseover="this.style.transform='scale(1.01)'" onmouseout="this.style.transform='scale(1)'" />
     </div>
@@ -171,33 +157,36 @@
 
 ## 🎯 Featured Projects
 
+<!-- [![rehman2711/gearshift-rentals-next-js - GitHub](https://gh-card.dev/repos/rehman2711/gearshift-rentals-next-js.svg)](https://github.com/rehman2711/gearshift-rentals-next-js) -->
+
+
 <div align="center">
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
     <div class="project-card">
       <a href="https://github.com/rehman2711/gearshift-rentals-next-js" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=rehman2711&repo=gearshift-rentals-next-js&theme=gotham&hide_border=true"
+          src="https://gh-card.dev/repos/rehman2711/gearshift-rentals-next-js.svg"
           alt="GearShift Rentals Project">
       </a>
     </div>
     <div class="project-card">
       <a href="https://github.com/rehman2711/gearshift-api-with-db-express-js" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=rehman2711&repo=gearshift-api-with-db-express-js&theme=gotham&hide_border=true"
+          src="https://gh-card.dev/repos/rehman2711/gearshift-api-with-db-express-js.svg"
           alt="GearShift Rentals API">
       </a>
     </div>
     <div class="project-card">
       <a href="https://github.com/rehman2711/display-ui" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=rehman2711&repo=display-ui&theme=gotham&hide_border=true"
+          src="https://gh-card.dev/repos/rehman2711/display-ui.svg"
           alt="Display UI">
       </a>
     </div>
     <div class="project-card">
       <a href="https://github.com/rehman2711/keycloak-deploy" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=rehman2711&repo=keycloak-deploy&theme=gotham&hide_border=true"
+          src="https://gh-card.dev/repos/rehman2711/keycloak-deploy.svg"
           alt="Keycloak Deployment">
       </a>
     </div>
@@ -210,7 +199,7 @@
 
 <div align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=rehman2711&theme=gotham&no-frame=true&no-bg=false&margin-w=4"
+    src="https://stats.hyo.dev/api/github-trophies?login=rehman2711"
     alt="GitHub Trophies" style="border-radius: 10px; transition: all 0.3s ease;"
     onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
 </div>
