@@ -128,23 +128,23 @@
 <div align="center" >
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
     <div class="project-card">
-      <a href="https://github.com/rehman2711/gearshift" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehman2711&repo=gearshift&theme=gotham&hide_border=true" alt="GearShift Project">
+      <a href="https://github.com/rehman2711/gearshift-rentals-next-js" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehman2711&repo=gearshift-rentals-next-js&theme=gotham&hide_border=true" alt="GearShift Rentals Project">
       </a>
     </div>
     <div class="project-card">
-      <a href="https://github.com/rehman2711/gearshift-api" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehman2711&repo=gearshift-api&theme=gotham&hide_border=true" alt="GearShift API">
+      <a href="https://github.com/rehman2711/gearshift-api-with-db-express-js" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehman2711&repo=gearshift-api-with-db-express-js&theme=gotham&hide_border=true" alt="GearShift Rentals API">
       </a>
     </div>
     <div class="project-card">
-      <a href="https://github.com/rehman2711/gearshift-api" target="_blank">
+      <a href="https://github.com/rehman2711/display-ui" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehman2711&repo=display-ui&theme=gotham&hide_border=true" alt="Display UI">
       </a>
     </div>
     <div class="project-card">
-      <a href="https://github.com/rehman2711/gearshift-api" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehman2711&repo=next-auth&theme=gotham&hide_border=true" alt="Next Auth">
+      <a href="https://github.com/rehman2711/keycloak-deploy" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rehman2711&repo=keycloak-deploy&theme=gotham&hide_border=true" alt="Keycloak Deployment">
       </a>
     </div>
   </div>
