@@ -61,7 +61,7 @@
     <div class="stats-card">
       <img
         src="https://stats.hyo.dev/api/github-stats-advanced?login=rehman2711"
-        alt="Top Languages" style="border-radius: 15px; transition: all 0.3s ease;"
+        alt="Top Languages" style="border-radius: 15px; width:500px; transition: all 0.3s ease;"
         onmouseover="this.style.transform='scale(1.01)'" onmouseout="this.style.transform='scale(1)'" />
     </div>
   </div>
