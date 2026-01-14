@@ -29,7 +29,7 @@
 ---
 
 <!-- INTERACTIVE SOCIAL LINKS -->
-   [![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2002-01-01&size=50&theme=ray&rotate=0)](https://moon-svg.minung.dev)<span style="color: blue; font-size: 35px; text-align: center; justify-content: center; align-items: start;"> <b>Let's Connect! </b></span> 
+   [![Moon.svg](https://moon-svg.minung.dev/moon.svg?date=2002-01-01&size=50&theme=ray&rotate=0)](https://moon-svg.minung.dev)
 <div align="center">
   <br>
   <a href="https://www.linkedin.com/in/rehmankalawant/" class="interactive-badge">
