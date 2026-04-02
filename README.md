@@ -183,9 +183,9 @@
       </a>
     </div>
     <div class="project-card">
-      <a href="https://github.com/rehman2711/keycloak-deploy" target="_blank">
+      <a href="https://github.com/rehman2711/next-auth" target="_blank">
         <img
-          src="https://gh-card.dev/repos/rehman2711/keycloak-deploy.svg"
+          src="https://gh-card.dev/repos/rehman2711/next-auth.svg"
           alt="Next Auth">
       </a>
     </div>
