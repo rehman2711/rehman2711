@@ -186,7 +186,7 @@
       <a href="https://github.com/rehman2711/keycloak-deploy" target="_blank">
         <img
           src="https://gh-card.dev/repos/rehman2711/keycloak-deploy.svg"
-          alt="Keycloak Deployment">
+          alt="Next Auth">
       </a>
     </div>
   </div>
