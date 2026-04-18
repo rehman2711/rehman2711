@@ -34,15 +34,15 @@
 
 ![Core](https://skillicons.dev/icons?i=html,css,js,ts&perline=4)
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux&perline=4)
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
+![Backend](https://skillicons.dev/icons?i=nodejs,express&perline=4)
 
-![Database](https://skillicons.dev/icons?i=mongodb,mysql)
+![Database](https://skillicons.dev/icons?i=mongodb,mysql&perline=4)
 
-![UI](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,shadcnui)
+![UI](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,shadcnui&perline=4)
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,npm,vite,postman,vercel,netlify)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,npm,vite,postman,vercel,netlify&perline=4)
 
 ---
 
