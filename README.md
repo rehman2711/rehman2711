@@ -7,9 +7,6 @@
 
 <!-- Get in Touch -->
 <div align="center">
-    <a href="https://x.com/rehman3001" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=x&logoColor=white" alt="Twitter/X" />
-    </a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/rehmankalawant/" style="text-decoration: none;">
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
     </a>&nbsp;&nbsp;
@@ -48,7 +45,7 @@
 
 ---
 
-
+<br>
 <br>
 
 <!-- GitHub Card -->
