@@ -28,7 +28,7 @@
 
 <!--TECHSTACK WITH IMAGE ICONS ADDED HERE -->
 
-### ⚙️ Tech Stack:
+### ⚙️ TECH STACK
 
 <!-- ![Hidden](https://skillicons.dev/icons?i=java,rust) -->
 
@@ -69,7 +69,7 @@
 
 </div>
 
-### 🎯 Featured Projects
+### 🎯 FEATURED PROJECTS
 
 <div align="center">
   <table>
@@ -102,7 +102,7 @@
 
 ---
 
-### 📈 Contribution Graph
+### 📈 CONTRIBUTION GRAPH
 
 <div align="center">
   <img
@@ -114,7 +114,7 @@
 
 ---
 
-### 💭 Random Dev Quote
+### 💭 RANDOM DEV QUOTE
 
 <div align="center">
   <img
