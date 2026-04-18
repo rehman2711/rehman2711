@@ -26,6 +26,8 @@
 
 ---
 
+<br>
+
 <!--TECHSTACK WITH IMAGE ICONS ADDED HERE -->
 
 ### ⚙️ TECH STACK
@@ -102,6 +104,8 @@
 
 ---
 
+<br>
+
 ### 📈 CONTRIBUTION GRAPH
 
 <div align="center">
@@ -113,6 +117,8 @@
 </div>
 
 ---
+
+<br>
 
 ### 💭 RANDOM DEV QUOTE
 
