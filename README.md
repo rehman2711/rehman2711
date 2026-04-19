@@ -41,7 +41,7 @@
 
 ![UI](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,shadcnui)
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,npm,vite,postman,vercel,netlify)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,npm,vite,postman,vercel,netlify&perline=7)
 
 ---
 
