@@ -31,17 +31,17 @@
 
 <!-- ![Hidden](https://skillicons.dev/icons?i=java,rust) -->
 
-![Core](https://skillicons.dev/icons?i=html,css,js,ts&perline=4)
+![Core](https://skillicons.dev/icons?i=html,css,js,ts)
 
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux&perline=4)
+![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux)
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express&perline=4)
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
 
-![Database](https://skillicons.dev/icons?i=mongodb,mysql&perline=4)
+![Database](https://skillicons.dev/icons?i=mongodb,mysql)
 
-![UI](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,shadcnui&perline=4)
+![UI](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,shadcnui)
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,npm,vite,postman,vercel,netlify&perline=4)
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,npm,vite,postman,vercel,netlify)
 
 ---
 
