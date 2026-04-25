@@ -46,7 +46,6 @@
 ---
 
 <br>
-<br>
 
 <!-- GitHub Card -->
 
