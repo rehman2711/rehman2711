@@ -31,17 +31,7 @@
 
 <!-- ![Hidden](https://skillicons.dev/icons?i=java,rust) -->
 
-![Core](https://skillicons.dev/icons?i=html,css,js,ts)
-
-![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux)
-
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
-
-![Database](https://skillicons.dev/icons?i=mongodb,mysql)
-
-![UI](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,shadcnui)
-
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,npm,bun,vite,postman,vercel,netlify&perline=6)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,bootstrap,tailwind,materialui,shadcnui,git,github,vscode,npm,bun,vite,postman,vercel,netlify&perline=7)
 
 ---
 
