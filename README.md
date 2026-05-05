@@ -31,7 +31,7 @@
 
 <!-- ![Hidden](https://skillicons.dev/icons?i=java,rust) -->
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,bootstrap,tailwind,materialui,shadcnui,git,github,vscode,npm,bun,vite,postman,vercel,netlify&perline=7)
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,nodejs,express,mongodb,mysql,bootstrap,tailwind,materialui,shadcnui,git,github,vscode,npm,bun,vite,postman,vercel,netlify&perline=8)
 
 ---
 
